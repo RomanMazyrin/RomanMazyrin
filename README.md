@@ -12,6 +12,27 @@
 👨‍💼 Co-founder of [Deltasales](https://www.deltasales.ru/) - top-10 companies doing CRM systems services and consulting in Russia.<br>
 🎓 I'm a graduate in Computer Science from Moscow State Technical University.<br>
 
+### Projects, code examples:
+
+<table>
+	<thead>
+		<tr>
+			<td><b>Project</b></td>
+			<td><b>Primary tech stack</b></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://github.com/RomanMazyrin/Salaries-project"><b>Salaries calculator</b></a>
+			</td>
+			<td>
+				<i>Python/Django</i>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Python (Django, pytest, gunicorn, flake, autopep8, pipenv), Postgresql, JS (React, Effector, jest, webpack), Docker
@@ -57,7 +78,7 @@
 ![Css badge](https://img.shields.io/badge/Css-white?logo=css3&logoColor=1572B6)
 ![Babel badge](https://img.shields.io/badge/Babel-white?logo=babel)
 
-### Projects and Dev Stuffs:
+### Dev Stuffs:
 
 
  
