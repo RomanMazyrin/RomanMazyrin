@@ -9,7 +9,7 @@
 ### Glad to see you here!
 
 🖥 Fullstack web-developer with 5+ years of experience.<br>
-👨‍💼 Co-founder of top-10 companies doing CRM systems services and consulting in Russia.<br>
+👨‍💼 Co-founder of [Deltasales](https://www.deltasales.ru/) - top-10 companies doing CRM systems services and consulting in Russia.<br>
 🎓 I'm a graduate in Computer Science from Moscow State Technical University.<br>
 
 ### Talking about Personal Stuffs:
