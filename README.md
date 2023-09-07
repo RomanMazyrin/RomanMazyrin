@@ -30,6 +30,14 @@
 				<i>Python/Django</i>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/RomanMazyrin/amo_widget_app_package"><b>Widgets library</b></a>
+			</td>
+			<td>
+				<i>JS/React</i>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
