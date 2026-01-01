@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Roman Mazyrin!](https://github.com/romanmazyrin/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-mazyrin-a2b66a233/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-mazyrin/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mazyrin)
 [![Email badge](https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red)](mailto:romanmazyrin21@gmail.com)
 [![Lichess badge](https://img.shields.io/badge/lichess-black?logo=lichess&logoColor=black&color=white)](https://lichess.org/@/rikimaru21)
@@ -8,45 +8,33 @@
 
 ### Glad to see you here!
 
-🖥 Fullstack web-developer with 5+ years of experience.<br>
+At the moment I'm an **AI-driven Python full-stack developer** with **3+ years of experience** in AI/LLM domain and 10+ years of experience in programming domain total, building scalable, production-ready applications and AI systems - from **LLM-powered agents** to **workflow orchestration frameworks**. 
+
+I specialize in designing **agentic architectures** that solve real business problems.
+
+---
+
+### 🚀 What I Build
+
+- **AI-powered systems:** LLM agents, multi-agent workflows, RAG pipelines  
+- **Backend engineering:** High-load services, API ecosystems, automation pipelines  
+- **DevOps & CI/CD:** Docker, AWS, scalable deployments, observability tooling  
+- **Frontend experience:** React-based UIs and full-stack integrative solutions
+
+---
+
+### 💼 Core Expertise
+
+- **Languages & Frameworks:** Python, FastAPI, asyncio, Pydantic  
+- **AI & Vector Systems:** LLMs, RAG, LangChain, LangGraph, Vector Databases, OpenAI
+- **Systems & DevOps:** Docker, AWS, CI/CD, scalable backend infrastructure  
+- **Integration & Automation:** API design, workflow orchestration, intelligent agents
+
+My previous life/career experience is:
+
+🖥 Fullstack web-developer with 7+ years of experience.<br>
 👨‍💼 Co-founder of [Deltasales](https://www.deltasales.ru/) - top-10 companies doing CRM systems services and consulting in Russia.<br>
 🎓 I'm a graduate in Computer Science from Moscow State Technical University.<br>
-
-### Projects, code examples:
-
-<table>
-	<thead>
-		<tr>
-			<td><b>Project</b></td>
-			<td><b>Primary tech stack</b></td>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="https://github.com/RomanMazyrin/Salaries-project"><b>Salaries calculator</b></a>
-			</td>
-			<td>
-				<i>Python/Django</i>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/RomanMazyrin/amo_widget_app_package"><b>Widgets library</b></a>
-			</td>
-			<td>
-				<i>JS/React</i>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Python (Django, pytest, gunicorn, flake, autopep8, pipenv), Postgresql, JS (React, Effector, jest, webpack), Docker
-- 🚀 &nbsp; I’m currently learning System Architecture.
-- 👾 &nbsp; Fun fact: indexes in RDBSM sometimes can make your query slower
-- 📫 &nbsp; How to reach me: romanmazyrin21@gmail.com.
 
 ### My Absolute Favorites:
 
@@ -58,7 +46,10 @@
 ### Languages and Tools:
 
 #### Backend:
-
+![Langchain badge](https://img.shields.io/badge/Langchain-beb5fd?logo=langchain&logoColor=1C3C3C)
+![Langgraph badge](https://img.shields.io/badge/Langgraph-beb5fd?logo=langchain&logoColor=1C3C3C)
+![FastAPI badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Pydantic badge](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 ![Python badge](https://img.shields.io/badge/Python-white?logo=python)
 ![Django badge](https://img.shields.io/badge/Django-white?logo=django&logoColor=green)
 ![Gunicorn badge](https://img.shields.io/badge/Gunicorn-white?logo=gunicorn)
@@ -85,21 +76,3 @@
 ![Html badge](https://img.shields.io/badge/Html-white?logo=html5&logoColor=E34F26)
 ![Css badge](https://img.shields.io/badge/Css-white?logo=css3&logoColor=1572B6)
 ![Babel badge](https://img.shields.io/badge/Babel-white?logo=babel)
-
-### Dev Stuffs:
-
-
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> macOS BigSur</li>
-	    <li><b>Laptop: </b> MacBook Pro 16</li>
-  	    <li><b>Browser: </b> Google Chrome</li>
-	    <li><b>Terminal: </b> Bash </li>
-	    <li><b>Code Editor:</b> VSCode.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Habrahabr</li>
-	    <br />
-	</ul>	
-</details>
