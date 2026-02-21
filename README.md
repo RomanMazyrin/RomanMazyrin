@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-mazyrin/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mazyrin)
 [![Email badge](https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red)](mailto:romanmazyrin21@gmail.com)
-[![Lichess badge](https://img.shields.io/badge/lichess-black?logo=lichess&logoColor=black&color=white)](https://lichess.org/@/rikimaru21)
 
 
 ### Glad to see you here!
